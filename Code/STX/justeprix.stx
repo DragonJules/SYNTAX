@@ -1,0 +1,20 @@
+met random
+
+essais ce sera ca 0
+prix ce sera ca random.randint(1,1000)
+
+userinput ce sera ca 0
+
+arrete pas tant que pas du tout userinput est egal a prix:
+    userinput ce sera ca en nombre(demande a utilisateur("Entrer un prix entre 1 et 1000\n>>> "))
+
+    Verifie que userinput plus moins bien que prix:
+        ecrit("C'est plus")
+    si c pas ca c ca userinput plus meilleur que prix:
+        ecrit("C'est moins")
+    
+    essais ce sera ca essais rajoute 1
+    
+
+
+ecrit("Bravo c'etait",en lettre(prix),"Trouvé en",en lettre(essais),"essais")
