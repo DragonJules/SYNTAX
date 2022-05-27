@@ -1,6 +1,6 @@
-**while**  :  arrete pas tant que __
-**input**  :  demande a utilisateur 
-**print**  :  ecrit 
+**while**  :  arrete pas tant que <br />
+**input**  :  demande a utilisateur <br />
+**print**  :  ecrit <br />
 **import** :  met
 **elif**   :  si c pas ca c ca 
 **else**   :  si c pas vrai 
