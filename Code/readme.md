@@ -1,4 +1,4 @@
-**while**  :  arrete pas tant que \n
+**while**  :  arrete pas tant que __
 **input**  :  demande a utilisateur 
 **print**  :  ecrit 
 **import** :  met
