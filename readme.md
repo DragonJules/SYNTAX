@@ -1,6 +1,4 @@
-I CREATED A DUMB PROGRAMING LANGUAGE
-
-![Sintaxlogo](https://user-images.githubusercontent.com/65538436/170701524-87d8efef-7897-4f7c-af42-cc5ca70a0fa5.png)
+I CREATED A DUMB PROGRAMING LANGUAGE ![Sintaxlogo](https://user-images.githubusercontent.com/65538436/170701524-87d8efef-7897-4f7c-af42-cc5ca70a0fa5.png)
 
 because it has a very strange syntax i called it SYNTAX
 
