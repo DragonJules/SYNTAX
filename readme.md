@@ -7,4 +7,6 @@ very fun isnt it
 
 ANYWAY its a sort of compiler u can use it if you want i dont care it was just for fun 
 
-come see my video about it on my channel https://www.youtube.com/c/GamenCode (french)
+<!--- come see my video about it on my channel https://www.youtube.com/c/GamenCode (french) -->
+
+Im working on an online interpreter for the syntax language
