@@ -4,4 +4,4 @@ No. <br>
 SYNTAX allows you to code in python but with your own keywords.<br>
 It can be fun or serious<br>
 <br>
-Web version finished at 80%
+Web version finished at 80% (comming with a rebuild of everything)
